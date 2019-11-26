@@ -1,0 +1,7 @@
+#define ssid "THE_HAB"
+#define wifi_password "5@8khfCRG65FjbfYevNstfT56e9q8rsy%NMaFaR4h%7KgwcNjy"
+#define mqtt_hostname "homie"
+#define mqtt_username "mqtt"
+#define mqtt_password "AGT2BDvb6NBSCvyb4S3PAGMxr"
+#define hassio_config "homeassistant/binary_sensor/garage/door_sensor/config"
+#define hassio_state "homeassistant/binary_sensor/garage/door_sensor/state"
